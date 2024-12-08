@@ -1,0 +1,2 @@
+INSERT INTO `usuarios` (`id`, `nombre`, `apellidos`, `email`, `password`, `rolId`, `estado`) 
+VALUES (2, 'Clider', 'Tutaya', 'tutayex@example.com', '$2y$10$69mGmlJngBv6LsNS1sjW5u5hmyhQnFRDoxnAMwT13rAzWvtwqO05e', 1, 'A');
